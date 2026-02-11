@@ -4,6 +4,8 @@ A desktop application for managing multiple Twitch chat bots with an intuitive i
 
 <img width="2560" height="1380" alt="NGS-Chat-Bots Interface" src="https://github.com/user-attachments/assets/32b95e08-5ce8-475d-bb31-0f355f0ffaef" />
 
+https://github.com/user-attachments/assets/184a84bf-4794-4cf1-9fb7-5a9d4f490d42
+
 ## Features
 
 - **Multi-bot Management** - Control multiple Twitch bots simultaneously from a single interface
@@ -23,6 +25,7 @@ A desktop application for managing multiple Twitch chat bots with an intuitive i
 
 1. Tokens and messages must be written as follows: 1 token or message per line
 2. You can name the bot if you want. To do this, simply write |name after the token
+3. The token must be without auth:
 
 ## Installation
 
