@@ -1,8 +1,8 @@
-# NGS-Chat-Bots
+# Twitch-Chat-Bots
 
 A desktop application for managing multiple Twitch chat bots with an intuitive interface.
 
-<img width="2560" height="1380" alt="NGS-Chat-Bots Interface" src="https://github.com/user-attachments/assets/32b95e08-5ce8-475d-bb31-0f355f0ffaef" />
+<img width="2560" height="1380" alt="Twitch-Chat-Bots Interface" src="https://github.com/user-attachments/assets/32b95e08-5ce8-475d-bb31-0f355f0ffaef" />
 
 https://github.com/user-attachments/assets/184a84bf-4794-4cf1-9fb7-5a9d4f490d42
 
@@ -42,8 +42,8 @@ For legal inquiries, please contact me by email.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ZikQ/NGS-Chat-Bots.git
-cd NGS-Chat-Bots/ngs_chat_bots
+git clone https://github.com/ZikQ/Twitch-Chat-Bots.git
+cd Twitch-Chat-Bots/ngs_chat_bots
 ```
 
 2. Build and run the project:
@@ -59,7 +59,7 @@ cargo build --release
 
 ### Pre-built Binaries
 
-Download the latest release from the [Releases page](https://github.com/ZikQ/NGS-Chat-Bots/releases/tag/release).
+Download the latest release from the [Releases page](https://github.com/ZikQ/Twitch-Chat-Bots/releases/tag/release).
 
 ## Usage
 
@@ -74,7 +74,7 @@ Download the latest release from the [Releases page](https://github.com/ZikQ/NGS
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/ZikQ/NGS-Chat-Bots/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/ZikQ/Twitch-Chat-Bots/issues) on GitHub.
 
 ---
 
